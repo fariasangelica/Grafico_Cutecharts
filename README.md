@@ -2,6 +2,7 @@
 Gráfico criado no Python com a biblioteca cutecharts e pandas.
 ## Importar bibliotecas
 import pandas as pd
+
 import cutecharts.charts as ctc
 ## Andamento de código
 data = {'Day': ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
