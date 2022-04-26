@@ -19,3 +19,6 @@ legends_pos='upRight'
 chart.add_series('This Week', list(df_coffee['This week']))
 chart.add_series('Last Week', list(df_coffee[df_coffee['Last week']))
 chart.render_noebook()
+
+![image](https://user-images.githubusercontent.com/98922466/165405046-c0674f6d-3e77-49f7-af0a-d1694a786bd2.png)
+
