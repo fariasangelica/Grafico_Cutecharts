@@ -4,7 +4,7 @@ Gráfico criado no Python com a biblioteca cutecharts e pandas.
 import pandas as pd
 
 import cutecharts.charts as ctc
-## Andamento de código
+## Andamento do código
 data = {'Day': ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
        'This week': [12, 10, 9, 9, 10, 3, 3],
        'Last week': [15, 12, 8, 9, 11, 4, 3]
