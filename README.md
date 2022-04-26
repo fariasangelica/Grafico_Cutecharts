@@ -1,5 +1,5 @@
 # Grafico_Cutecharts
-Gráfico cirado no Python com a biblioteca cutecharts e pandas.
+Gráfico crirado no Python com a biblioteca cutecharts e pandas.
 ## Importar bibliotecas
 import pandas as pd
 import cutecharts.charts as ctc
