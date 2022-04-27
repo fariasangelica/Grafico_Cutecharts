@@ -1,7 +1,7 @@
 # Grafico_Cutecharts
 Gráfico criado no Python com as bibliotecas cutecharts e pandas.
 
-Os dados são ficícios de consumo de café, onde os recursos são dias, esta semana e semana passada. O gáfico tem o consumo de café da última semana.
+Os dados são fictícios de consumo de café, onde os recursos são dias, esta semana e semana passada. O gáfico tem o consumo de café da última semana.
 ## Importar bibliotecas
 import pandas as pd
 
